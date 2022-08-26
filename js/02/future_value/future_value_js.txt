@@ -1,0 +1,10 @@
+var $ = function (id) {
+    return document.getElementById(id);
+}
+
+var calculateCLick =function(){
+var miles = parseFloat($("investment").value);
+var miles = parseFloat($("rate").value);
+var miles = parseFloat($("years").value);
+
+}
