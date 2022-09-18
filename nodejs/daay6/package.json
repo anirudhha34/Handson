@@ -1,12 +1,12 @@
 {
-  "name": "Indranil_Day 5 Task 2",
+  "name": "Anirudhha_5 Task 2",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "INDRANIL",
+  "author": "Anirudhha",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
