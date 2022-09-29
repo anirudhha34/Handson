@@ -1,0 +1,20 @@
+.logo{
+    width: 60px;    
+}
+.navBar{
+    display: flex;
+    
+}
+.title{
+    padding-left: 200px;
+}
+.footer--copyright{
+    
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+   
+}
