@@ -1,5 +1,5 @@
-var fullName: string = "Indranil Champati";
-let age: number = 23;
+var fullName: string = "Anirudhha Singh Panwar";
+let age: number = 21;
 let dance: boolean = false;
 
 console.log(fullName);
