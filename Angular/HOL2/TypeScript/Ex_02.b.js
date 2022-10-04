@@ -1,4 +1,4 @@
 var capital = function (name) {
   return "".concat(name.toUpperCase());
 };
-console.log(capital("Meet"));
+console.log(capital("Anirudhha"));
