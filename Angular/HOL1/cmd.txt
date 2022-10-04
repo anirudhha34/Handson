@@ -26,7 +26,7 @@ Package                      Version
 
 
 Q.2)
-C:\Users\meet.kothari>ng help
+C:\Users\Panwar.anirudhha>ng help
 ng <command>
 
 Commands:
@@ -61,4 +61,4 @@ Options:
 
 For more information, see https://angular.io/cli/.
 
-C:\Users\meet.kothari\Desktop\angular\template> ng new template
+C:\Users\Panwar.anirudhha\Desktop\angular\template> ng new template
